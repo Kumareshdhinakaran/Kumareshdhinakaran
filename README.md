@@ -9,7 +9,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-<img src="https://api4.iloveimg.com/v1/download/llvmy56n5ztytws9prdls107m766vht35rc385m7vzr5qygnj2trhfyrj5lyzg8c4bzjqxgskrzbhsnh79fgtzAzx24lt80f5d22kqrnczrymd7xgAqzq8v8szvsjA8jtvhm3p86k5z66g09c19r735kblywh2nxfbqv6g8krb8y5ml9pdj1" width="500" height="250"> 
+<img src="https://drive.google.com/uc?export=view&id=1VncIaiDnJM8oB_lXPJdsohNMQvh5YbYX" width="500" height="250"> 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
